@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bing 壁纸</title>
+    <link>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w?launch=true&mode=full&hl=zh-cn&gl=cn&ocid=bingwebsearch</link>
+    <!-- <description>feedId:171501366114548736+userId:166032503014917120</description> -->
+    <description>每日 Bing 壁纸推荐</description>
+
+    <image>
+      <url>https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBeRogmRf1xieDJbrjYvc.hWjkJWbW8pvYIHG7f7fs7fdlpavogrYunqrBORxeTXBrpV0I1I3y_FvgqTmrUa5xBs-&format=source&h=307</url>
+      <title>Bing 壁纸</title>
+      <link>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w?launch=true&mode=full&hl=zh-cn&gl=cn&ocid=bingwebsearch</link>
+      <width>144</width>
+      <height>40</height>
+    </image>
+
+    <item>
+      <title>潮汐的守护者</title>
+      <link>https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_1920x1080.jpg</link>
+      <description>黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)</description>
+      <pubDate>2025-07-25T00:00:00.000Z</pubDate>
+      <guid isPermaLink="true">https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_1920x1080.jpg</guid>
+      <author>Hwd</author>
+      <category>Bing</category>
+      <content>内容</content>
+    </item>
+  </channel>
+</rss>
