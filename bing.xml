@@ -2,10 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bing 壁纸（原图）</title>
-    <link>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w?launch=true&mode=full&hl=zh-cn&gl=cn&ocid=bingwebsearch</link>
-    <!-- <description>feedId:171501366114548736+userId:166032503014917120</description> -->
     <description>每日 Bing 壁纸原图推荐，预览图片为1080P格式，原图为无压缩无损原始大小，图片均无水印</description>
-
+    <link>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w?launch=true&mode=full&hl=zh-cn&gl=cn&ocid=bingwebsearch</link>
     <image>
       <url>https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBeRogmRf1xieDJbrjYvc.hWjkJWbW8pvYIHG7f7fs7fdlpavogrYunqrBORxeTXBrpV0I1I3y_FvgqTmrUa5xBs-&format=source&h=307</url>
       <title>Bing 壁纸</title>
@@ -17,32 +15,15 @@
     <item>
       <title>潮汐的守护者</title>
       <link>https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg</link>
-      <description>
-      黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)
-          <p>本教程涵盖装饰器、元编程等进阶主题，附实战案例。</p>
-          
-          <!-- 按钮容器 -->
-          <div style="margin: 20px 0; text-align: center;">
-            <!-- 查看详情按钮 -->
-            <a href="https://example.com/articles/python-advanced" 
-              style="display: inline-block; padding: 12px 24px; background: #4A90E2; color: white; 
-                      text-decoration: none; border-radius: 4px; font-weight: bold; margin-right: 10px;">
-              查看完整教程
-            </a>
-            
-            <!-- 下载资源按钮 -->
-            <a href="https://example.com/downloads/python-advanced.zip" 
-              style="display: inline-block; padding: 12px 24px; background: #50B83C; color: white; 
-                      text-decoration: none; border-radius: 4px; font-weight: bold;">
-              下载示例代码
-            </a>
-          </div>
-          
-          <!-- 按钮说明文字 -->
-          <p><small>点击按钮后页面将跳转至对应链接</small></p>
-      </description>
       <enclosure url="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_1920x1080.jpg" type="image/jpeg" />
       <pubDate>2025-07-25T00:00:00.000Z</pubDate>
+      <content:encoded>
+        <![CDATA[
+          <h1>潮汐的守护者</h1>
+          <p>黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)</p>
+          <image src="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_1920x1080.jpg" />
+        ]]>
+      </content:encoded>
     </item>
   </channel>
 </rss>
