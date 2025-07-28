@@ -3,6 +3,7 @@
   <channel>
     <title>Bing 壁纸（原图）</title>
     <description>每日 Bing 壁纸原图推荐，预览图片为1080P格式，原图为无压缩无损原始大小，图片均无水印</description>
+    <!-- <description>feedId:172292532688785408+userId:166032503014917120</description> -->
     <link>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w?launch=true&mode=full&hl=zh-cn&gl=cn&ocid=bingwebsearch</link>
     <image>
       <url>https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBeRogmRf1xieDJbrjYvc.hWjkJWbW8pvYIHG7f7fs7fdlpavogrYunqrBORxeTXBrpV0I1I3y_FvgqTmrUa5xBs-&format=source&h=307</url>
