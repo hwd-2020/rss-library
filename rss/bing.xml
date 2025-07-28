@@ -1,7 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Bing 壁纸（原图）</title>
-    <subtitle>feedId:172603614468645888+userId:166032503014917120</subtitle>
-    <!-- <subtitle>每日 Bing 壁纸原图推荐，预览图片为1080P格式，原图为无压缩无损原始大小，图片均无水印</subtitle> -->
+    <subtitle>每日 Bing 壁纸原图推荐，预览图片为1080P格式，原图为无压缩无损原始大小，图片均无水印</subtitle>
     <link href="https://www.microsoft.com/zh-cn/bing/features/bing-wallpaper"/>
     <updated>2025-07-28T00:00:00.000Z</updated>
     <id>https://www.microsoft.com/zh-cn/bing/features/bing-wallpaper</id>
