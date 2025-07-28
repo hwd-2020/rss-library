@@ -1,17 +1,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Bing 壁纸（原图）</title>
-    <subtitle>每日 Bing 壁纸原图推荐，预览图片为1080P格式，原图为无压缩无损原始大小，图片均无水印</subtitle>
-    <link href="https://apps.microsoft.com/detail/xpfp7f8rl7mb1w"/>
+    <subtitle>feedId:172603614468645888+userId:166032503014917120</subtitle>
+    <!-- <subtitle>每日 Bing 壁纸原图推荐，预览图片为1080P格式，原图为无压缩无损原始大小，图片均无水印</subtitle> -->
+    <link href="https://www.microsoft.com/zh-cn/bing/features/bing-wallpaper"/>
     <updated>2025-07-28T00:00:00.000Z</updated>
-    <id>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w</id>
+    <id>https://www.microsoft.com/zh-cn/bing/features/bing-wallpaper</id>
     <author>
         <name>Bing</name>
     </author>
-    <!-- <generator uri="https://hexo.io/">Hexo</generator> -->
     <entry>
         <title>领先一步</title>
-        <link href="https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg"/>
-        <id>https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg</id>
+        <link href="https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg"/>
+        <id>https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg</id>
         <published>2025-07-28T00:00:00.000Z</published>
         <updated>2025-07-28T00:00:00.000Z</updated>
         <content type="html">
@@ -24,7 +24,23 @@
             <image src="https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg" />
             ]]>
         </content>
-        <!-- <category term="记录" scheme="http://mietl.github.io/tags/%E8%AE%B0%E5%BD%95"/> -->
+    </entry>
+    <entry>
+        <title>同步闪耀</title>
+        <link href="https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg"/>
+        <id>https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg</id>
+        <published>2025-07-27T00:00:00.000Z</published>
+        <updated>2025-07-27T00:00:00.000Z</updated>
+        <content type="html">
+            <![CDATA[
+            <image src="https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_1920x1080.jpg" />
+            <p>黑鳍梭鱼群，鲨鱼礁，拉斯穆罕默德国家公园，西奈半岛，埃及 (© Alex Mustard/Nature Picture Library)</p>
+            <h2>原图</h2>
+            <p><strong>图像分辨率：</strong>3840 x 2160</p>
+            <p><strong>图像大小：</strong>3.51 MB</p>
+            <image src="https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg" />
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>潮汐的守护者</title>
