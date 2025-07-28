@@ -1,0 +1,29 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Bing 壁纸（原图）</title>
+    <subtitle>每日 Bing 壁纸原图推荐，预览图片为1080P格式，原图为无压缩无损原始大小，图片均无水印</subtitle>
+    <link href="https://apps.microsoft.com/detail/xpfp7f8rl7mb1w"/>
+    <updated>2025-07-28T00:00:00.000Z</updated>
+    <id>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w</id>
+    <author>
+        <name>Bing</name>
+    </author>
+    <!-- <generator uri="https://hexo.io/">Hexo</generator> -->
+    <entry>
+        <title>领先一步</title>
+        <link href="https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg"/>
+        <id>https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg</id>
+        <published>2025-07-28T00:00:00.000Z</published>
+        <updated>2025-07-28T00:00:00.000Z</updated>
+        <content type="html">
+            <![CDATA[
+            <p>蒙古草原上的蒙古包 (© Michel Arnault/Shutterstock)</p>
+            <image src="https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_1920x1080.jpg" />
+            <h2>原图</h2>
+            <p><storage>图像分辨率：3840 x 2160</storage></p>
+            <p><storage>图像大小：3.37 MB</storage></p>
+            <image src="https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg" />
+            ]]>
+        </content>
+        <!-- <category term="记录" scheme="http://mietl.github.io/tags/%E8%AE%B0%E5%BD%95"/> -->
+    </entry>
+</feed>
