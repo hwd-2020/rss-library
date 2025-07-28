@@ -16,8 +16,8 @@
         <updated>2025-07-28T00:00:00.000Z</updated>
         <content type="html">
             <![CDATA[
-            <p>蒙古草原上的蒙古包 (© Michel Arnault/Shutterstock)</p>
             <image src="https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_1920x1080.jpg" />
+            <p>蒙古草原上的蒙古包 (© Michel Arnault/Shutterstock)</p>
             <h2>原图</h2>
             <p><storage>图像分辨率：3840 x 2160</storage></p>
             <p><storage>图像大小：3.37 MB</storage></p>
@@ -25,5 +25,22 @@
             ]]>
         </content>
         <!-- <category term="记录" scheme="http://mietl.github.io/tags/%E8%AE%B0%E5%BD%95"/> -->
+    </entry>
+    <entry>
+        <title>潮汐的守护者</title>
+        <link href="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg"/>
+        <id>https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg</id>
+        <published>2025-07-25T00:00:00.000Z</published>
+        <updated>2025-07-25T00:00:00.000Z</updated>
+        <content type="html">
+            <![CDATA[
+            <image src="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_1920x1080.jpg" />
+            <p>黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)</p>
+            <h2>原图</h2>
+            <p><storage>图像分辨率：3840 x 2160</storage></p>
+            <p><storage>图像大小：3.61 MB</storage></p>
+            <image src="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg" />
+            ]]>
+        </content>
     </entry>
 </feed>
