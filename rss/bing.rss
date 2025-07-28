@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:cc="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html">
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> -->
   <channel>
     <title>Bing 壁纸（原图）</title>
     <description>每日 Bing 壁纸原图推荐，预览图片为1080P格式，原图为无压缩无损原始大小，图片均无水印</description>
-    <!-- <description>feedId:172500877734066176+userId:166032503014917120</description> -->
-    <!-- <link>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w?launch=true&mode=full&hl=zh-cn&gl=cn&ocid=bingwebsearch</link> -->
+    <link>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w</link>
     <image>
-      <url>https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBeRogmRf1xieDJbrjYvc.hWjkJWbW8pvYIHG7f7fs7fdlpavogrYunqrBORxeTXBrpV0I1I3y_FvgqTmrUa5xBs-&format=source&h=307</url>
-      <title>Bing 壁纸</title>
-      <link>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w?launch=true&mode=full&hl=zh-cn&gl=cn&ocid=bingwebsearch</link>
+      <url>https://hwd-2020.github.io/rss-library/rss/bing-logo.png</url>
+      <title>Bing 壁纸（原图）</title>
+      <link>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w</link>
       <width>144</width>
-      <height>40</height>
+      <height>144</height>
     </image>
 
     <item>
       <title>领先一步</title>
       <link>https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg</link>
-      <pubDate>2025-07-25T00:00:00.000Z</pubDate>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
       <content:encoded>
         <![CDATA[
           <p>蒙古草原上的蒙古包 (© Michel Arnault/Shutterstock)</p>
@@ -33,7 +33,7 @@
       <title>潮汐的守护者</title>
       <link>https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg</link>
       <!-- <enclosure url="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_1920x1080.jpg" type="image/jpeg" /> -->
-      <pubDate>2025-07-25T00:00:00.000Z</pubDate>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
       <content:encoded>
         <![CDATA[
           <p>黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)</p>
