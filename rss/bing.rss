@@ -3,7 +3,7 @@
   <channel>
     <title>Bing 壁纸（原图）</title>
     <description>每日 Bing 壁纸原图推荐，预览图片为1080P格式，原图为无压缩无损原始大小，图片均无水印</description>
-    <!-- <description>feedId:172292532688785408+userId:166032503014917120</description> -->
+    <!-- <description>feedId:172500877734066176+userId:166032503014917120</description> -->
     <link>https://apps.microsoft.com/detail/xpfp7f8rl7mb1w?launch=true&mode=full&hl=zh-cn&gl=cn&ocid=bingwebsearch</link>
     <image>
       <url>https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBeRogmRf1xieDJbrjYvc.hWjkJWbW8pvYIHG7f7fs7fdlpavogrYunqrBORxeTXBrpV0I1I3y_FvgqTmrUa5xBs-&format=source&h=307</url>
@@ -16,16 +16,16 @@
     <item>
       <title>潮汐的守护者</title>
       <link>https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg</link>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_1920x1080.jpg" type="image/jpeg" />
+      <!-- <enclosure url="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_1920x1080.jpg" type="image/jpeg" /> -->
       <pubDate>2025-07-25T00:00:00.000Z</pubDate>
       <content:encoded>
         <![CDATA[
-          <h1>潮汐的守护者</h1>
           <p>黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)</p>
           <image src="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_1920x1080.jpg" />
-          <p>预览图</p>
+          <h2>原图</h2>
+          <p><storage>图像分辨率：3840 x 2160</storage></p>
+          <p><storage>图像大小：3.61 MB</storage></p>
           <image src="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg" />
-          <p>原图</p>
         ]]>
       </content:encoded>
     </item>
