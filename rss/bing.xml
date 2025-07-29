@@ -2,11 +2,28 @@
     <title>Bing 壁纸（原图）</title>
     <subtitle>每日 Bing 壁纸原图推荐，预览图片为1080P格式，原图为无压缩无损原始大小，图片均无水印</subtitle>
     <link href="https://www.microsoft.com/zh-cn/bing/features/bing-wallpaper"/>
-    <updated>2025-07-28T00:00:00.000Z</updated>
+    <updated>2025-07-29T00:00:00.000Z</updated>
     <id>https://www.microsoft.com/zh-cn/bing/features/bing-wallpaper</id>
     <author>
         <name>Bing</name>
     </author>
+    <entry>
+        <title>丛林女王</title>
+        <link href="https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg"/>
+        <id>https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg</id>
+        <published>2025-07-29T00:00:00.000Z</published>
+        <updated>2025-07-29T00:00:00.000Z</updated>
+        <content type="html">
+            <![CDATA[
+            <image src="https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.jpg" />
+            <p>雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)</p>
+            <h2>原图</h2>
+            <p><strong>图像分辨率：</strong>3840 x 2160</p>
+            <p><strong>图像大小：</strong>3.44 MB</p>
+            <image src="https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg" />
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>领先一步</title>
         <link href="https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg"/>
@@ -28,8 +45,8 @@
         <title>同步闪耀</title>
         <link href="https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg"/>
         <id>https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg</id>
-        <published>2025-07-26T00:00:00.000Z</published>
-        <updated>2025-07-26T00:00:00.000Z</updated>
+        <published>2025-07-27T00:00:00.000Z</published>
+        <updated>2025-07-27T00:00:00.000Z</updated>
         <content type="html">
             <![CDATA[
             <image src="https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_1920x1080.jpg" />
@@ -45,8 +62,8 @@
         <title>潮汐的守护者</title>
         <link href="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg"/>
         <id>https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg</id>
-        <published>2025-07-25T00:00:00.000Z</published>
-        <updated>2025-07-25T00:00:00.000Z</updated>
+        <published>2025-07-26T00:00:00.000Z</published>
+        <updated>2025-07-26T00:00:00.000Z</updated>
         <content type="html">
             <![CDATA[
             <image src="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_1920x1080.jpg" />
